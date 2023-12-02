@@ -1,0 +1,27 @@
+[
+    {
+        "name": "EUR",
+        "isDefault": true,
+        "factor": 1.0
+    },
+    {
+        "name": "GBP",
+        "isDefault": false,
+        "factor": 0.86
+    },
+    {
+        "name": "USD",
+        "isDefault": false,
+        "factor": 1.09
+    },
+    {
+        "name": "RUB",
+        "isDefault": false,
+        "factor": 99.37
+    },
+    {
+        "name": "CHF",
+        "isDefault": false,
+        "factor": 0.95
+    }
+]
