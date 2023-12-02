@@ -1,0 +1,398 @@
+[
+    {
+        "id": 1585,
+        "artist": "The Pussycat Dolls",
+        "song": "Buttons",
+        "duration_ms": 225560,
+        "year": 2005,
+        "tempo": 210.851,
+        "genre": "pop, R&B"
+    },
+    {
+        "id": 524,
+        "artist": "Blake Shelton",
+        "song": "Honey Bee",
+        "duration_ms": 210720,
+        "year": 2011,
+        "tempo": 205.57,
+        "genre": "country"
+    },
+    {
+        "id": 930,
+        "artist": "YG",
+        "song": "BIG BANK (feat. 2 Chainz, Big Sean, Nicki Minaj)",
+        "duration_ms": 237240,
+        "year": 2018,
+        "tempo": 203.911,
+        "genre": "hip hop, pop"
+    },
+    {
+        "id": 827,
+        "artist": "112",
+        "song": "Peaches & Cream",
+        "duration_ms": 193093,
+        "year": 2001,
+        "tempo": 203.862,
+        "genre": "hip hop, pop, R&B"
+    },
+    {
+        "id": 228,
+        "artist": "Mustard",
+        "song": "Pure Water (with Migos)",
+        "duration_ms": 192470,
+        "year": 2019,
+        "tempo": 202.015,
+        "genre": "hip hop, pop"
+    },
+    {
+        "id": 793,
+        "artist": "DMX",
+        "song": "Party Up",
+        "duration_ms": 268866,
+        "year": 1999,
+        "tempo": 201.936,
+        "genre": "hip hop, pop"
+    },
+    {
+        "id": 1579,
+        "artist": "Drake",
+        "song": "The Motto",
+        "duration_ms": 181573,
+        "year": 2011,
+        "tempo": 201.8,
+        "genre": "hip hop, pop, R&B"
+    },
+    {
+        "id": 1016,
+        "artist": "Lumidee",
+        "song": "Never Leave You (Uh Oooh, Uh Oooh)",
+        "duration_ms": 184906,
+        "year": 2003,
+        "tempo": 199.958,
+        "genre": "pop, R&B"
+    },
+    {
+        "id": 582,
+        "artist": "Fall Out Boy",
+        "song": "This Ain't A Scene, It's An Arms Race",
+        "duration_ms": 212040,
+        "year": 2007,
+        "tempo": 199.935,
+        "genre": "rock"
+    },
+    {
+        "id": 458,
+        "artist": "Diddy",
+        "song": "I Need a Girl (Pt. 2) [feat. Loon, Ginuwine & Mario Winans]",
+        "duration_ms": 285586,
+        "year": 2004,
+        "tempo": 199.764,
+        "genre": "hip hop, pop"
+    },
+    {
+        "id": 1934,
+        "artist": "Maluma",
+        "song": "Corazón (feat. Nego do Borel)",
+        "duration_ms": 184720,
+        "year": 2018,
+        "tempo": 198.075,
+        "genre": "latin"
+    },
+    {
+        "id": 1174,
+        "artist": "Mabel",
+        "song": "Mad Love",
+        "duration_ms": 169813,
+        "year": 2019,
+        "tempo": 198.065,
+        "genre": "pop, Dance/Electronic"
+    },
+    {
+        "id": 975,
+        "artist": "DJ Snake",
+        "song": "You Know You Like It",
+        "duration_ms": 247266,
+        "year": 2014,
+        "tempo": 196.093,
+        "genre": "hip hop, pop, Dance/Electronic"
+    },
+    {
+        "id": 1270,
+        "artist": "DJ Snake",
+        "song": "You Know You Like It",
+        "duration_ms": 247266,
+        "year": 2014,
+        "tempo": 196.093,
+        "genre": "hip hop, pop, Dance/Electronic"
+    },
+    {
+        "id": 605,
+        "artist": "Angie Martinez",
+        "song": "If I Could Go! (feat. Lil' Mo & Sacario)",
+        "duration_ms": 244466,
+        "year": 2019,
+        "tempo": 195.685,
+        "genre": "pop"
+    },
+    {
+        "id": 185,
+        "artist": "Alessia Cara",
+        "song": "Scars To Your Beautiful",
+        "duration_ms": 230226,
+        "year": 2016,
+        "tempo": 194.169,
+        "genre": "pop, R&B"
+    },
+    {
+        "id": 210,
+        "artist": "Beyoncé",
+        "song": "Single Ladies (Put a Ring on It)",
+        "duration_ms": 193213,
+        "year": 2008,
+        "tempo": 193.437,
+        "genre": "pop, R&B"
+    },
+    {
+        "id": 1812,
+        "artist": "P!nk",
+        "song": "True Love (feat. Lily Allen)",
+        "duration_ms": 230733,
+        "year": 2012,
+        "tempo": 192.205,
+        "genre": "pop"
+    },
+    {
+        "id": 1462,
+        "artist": "Fabolous",
+        "song": "Can't Let You Go (feat. Mike Shorey & Lil' Mo)",
+        "duration_ms": 223973,
+        "year": 2003,
+        "tempo": 192.082,
+        "genre": "hip hop, pop, R&B"
+    },
+    {
+        "id": 586,
+        "artist": "Sia",
+        "song": "The Greatest (feat. Kendrick Lamar)",
+        "duration_ms": 210226,
+        "year": 2016,
+        "tempo": 191.944,
+        "genre": "pop"
+    },
+    {
+        "id": 472,
+        "artist": "Illy",
+        "song": "Papercuts (feat. Vera Blue)",
+        "duration_ms": 255889,
+        "year": 2016,
+        "tempo": 191.863,
+        "genre": "hip hop, pop, Dance/Electronic"
+    },
+    {
+        "id": 1457,
+        "artist": "Chip",
+        "song": "Champion (feat. Chris Brown)",
+        "duration_ms": 237293,
+        "year": 2011,
+        "tempo": 190.151,
+        "genre": "hip hop, Dance/Electronic"
+    },
+    {
+        "id": 73,
+        "artist": "Ariana Grande",
+        "song": "boyfriend (with Social House)",
+        "duration_ms": 186106,
+        "year": 2019,
+        "tempo": 190.097,
+        "genre": "pop"
+    },
+    {
+        "id": 821,
+        "artist": "Fetty Wap",
+        "song": "679 (feat. Remy Boyz)",
+        "duration_ms": 196693,
+        "year": 2015,
+        "tempo": 190.05,
+        "genre": "hip hop, pop"
+    },
+    {
+        "id": 287,
+        "artist": "Maroon 5",
+        "song": "Animals",
+        "duration_ms": 231013,
+        "year": 2014,
+        "tempo": 189.868,
+        "genre": "pop"
+    },
+    {
+        "id": 599,
+        "artist": "Ellie Goulding",
+        "song": "Love Me Like You Do - From \"Fifty Shades Of Grey\"",
+        "duration_ms": 252534,
+        "year": 2015,
+        "tempo": 189.857,
+        "genre": "pop, rock, Dance/Electronic"
+    },
+    {
+        "id": 1469,
+        "artist": "Christina Aguilera",
+        "song": "Fighter",
+        "duration_ms": 245960,
+        "year": 2002,
+        "tempo": 188.899,
+        "genre": "pop"
+    },
+    {
+        "id": 1144,
+        "artist": "Stormzy",
+        "song": "Vossi Bop",
+        "duration_ms": 196266,
+        "year": 2019,
+        "tempo": 188.115,
+        "genre": "hip hop, Dance/Electronic"
+    },
+    {
+        "id": 58,
+        "artist": "Nickelback",
+        "song": "When We Stand Together",
+        "duration_ms": 190786,
+        "year": 2011,
+        "tempo": 187.961,
+        "genre": "rock, metal"
+    },
+    {
+        "id": 259,
+        "artist": "SAYGRACE",
+        "song": "You Don't Own Me (feat. G-Eazy)",
+        "duration_ms": 199314,
+        "year": 2015,
+        "tempo": 186.394,
+        "genre": "pop, R&B"
+    },
+    {
+        "id": 892,
+        "artist": "SAYGRACE",
+        "song": "You Don't Own Me (feat. G-Eazy)",
+        "duration_ms": 201493,
+        "year": 2016,
+        "tempo": 186.249,
+        "genre": "pop, R&B"
+    },
+    {
+        "id": 993,
+        "artist": "Green Day",
+        "song": "American Idiot",
+        "duration_ms": 176346,
+        "year": 2004,
+        "tempo": 186.113,
+        "genre": "rock"
+    },
+    {
+        "id": 578,
+        "artist": "The Weeknd",
+        "song": "Starboy",
+        "duration_ms": 230453,
+        "year": 2016,
+        "tempo": 186.054,
+        "genre": "pop, R&B"
+    },
+    {
+        "id": 713,
+        "artist": "Bobby V.",
+        "song": "Slow Down - 12\" Version",
+        "duration_ms": 258666,
+        "year": 2005,
+        "tempo": 186.048,
+        "genre": "hip hop, pop, R&B"
+    },
+    {
+        "id": 1277,
+        "artist": "Adam Lambert",
+        "song": "Whataya Want from Me",
+        "duration_ms": 227320,
+        "year": 2009,
+        "tempo": 185.934,
+        "genre": "pop"
+    },
+    {
+        "id": 639,
+        "artist": "Mary J. Blige",
+        "song": "One",
+        "duration_ms": 260466,
+        "year": 2005,
+        "tempo": 185.888,
+        "genre": "pop, R&B"
+    },
+    {
+        "id": 280,
+        "artist": "Avril Lavigne",
+        "song": "Nobody's Home",
+        "duration_ms": 212413,
+        "year": 2004,
+        "tempo": 185.406,
+        "genre": "pop"
+    },
+    {
+        "id": 1493,
+        "artist": "Trapt",
+        "song": "Headstrong",
+        "duration_ms": 285569,
+        "year": 2002,
+        "tempo": 184.981,
+        "genre": "rock, metal"
+    },
+    {
+        "id": 1744,
+        "artist": "Las Ketchup",
+        "song": "The Ketchup Song (Aserejé) - Spanglish Version",
+        "duration_ms": 213973,
+        "year": 2002,
+        "tempo": 184.819,
+        "genre": "set()"
+    },
+    {
+        "id": 1468,
+        "artist": "Outkast",
+        "song": "The Whole World (feat. Killer Mike)",
+        "duration_ms": 295346,
+        "year": 2001,
+        "tempo": 184.682,
+        "genre": "hip hop, pop"
+    },
+    {
+        "id": 1426,
+        "artist": "fun.",
+        "song": "We Are Young (feat. Janelle Monáe)",
+        "duration_ms": 250626,
+        "year": 2012,
+        "tempo": 184.086,
+        "genre": "rock, pop"
+    },
+    {
+        "id": 956,
+        "artist": "Fergie",
+        "song": "Clumsy",
+        "duration_ms": 240426,
+        "year": 2006,
+        "tempo": 184.009,
+        "genre": "pop, R&B"
+    },
+    {
+        "id": 1381,
+        "artist": "Thirty Seconds To Mars",
+        "song": "The Kill",
+        "duration_ms": 231533,
+        "year": 2005,
+        "tempo": 182.99,
+        "genre": "rock"
+    },
+    {
+        "id": 161,
+        "artist": "Gabrielle",
+        "song": "Out Of Reach",
+        "duration_ms": 196986,
+        "year": 2001,
+        "tempo": 182.862,
+        "genre": "pop, R&B"
+    }
+]
